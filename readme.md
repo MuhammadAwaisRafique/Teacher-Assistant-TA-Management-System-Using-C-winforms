@@ -58,7 +58,7 @@ Steps
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/MuhammadAwaisRafique/Teacher-Assistant-TA-Management-System-Using-C-winforms.git 
 
 Open the solution in Visual Studio.
 
@@ -88,7 +88,7 @@ Enhancing UI/UX with modern design elements.
 
 Contact
 
-For queries or contributions, please reach out at: [Your Email]
+For queries or contributions, please reach out at: awaisrafiqueawaisrafique@gmail.com
 
 Developed by Muhammad Awais Rafique | May 2024
 
